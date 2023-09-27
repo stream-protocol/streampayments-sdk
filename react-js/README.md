@@ -1,3 +1,5 @@
+# StreamPayments Design System
+
 Designing a system that integrates the **Stream**Payments SDK into a React.js application requires careful consideration of various components and their interactions. Below is a high-level system design for such an integration:
 
 **System Components:**
