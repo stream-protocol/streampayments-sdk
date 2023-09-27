@@ -1,0 +1,33 @@
+{
+  "name": "@streampayments/web3.js",
+  "version": "1.0.0",
+  "description": "StreamPayments JavaScript SDK for Solana network interaction with Circle USDC and EURC support.",
+  "main": "src/StreamPayments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stream-protocol/streampayments-web3"
+  },
+  "keywords": [
+    "solana",
+    "sdk",
+    "streampay",
+    "payments",
+    "usdc",
+    "eurc"
+  ],
+  "author": "Stream Protocol",
+  "license": "MIT",
+  "dependencies": {
+    "@circle-fin/circle-sdk": "^2.5.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.5",
+    "crypto-js": "^4.1.1",
+    "solana-encryption": "^1.0.9"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
