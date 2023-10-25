@@ -24,7 +24,7 @@
     "@circle-fin/circle-sdk": "^2.5.0",
     "@solana/spl-token": "^0.3.8",
     "@solana/web3.js": "^1.78.5",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "solana-encryption": "^1.0.9"
   },
   "devDependencies": {
